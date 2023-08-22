@@ -1,3 +1,5 @@
+![تنزيل (13)](https://github.com/Ali775624/cloth-remover-ai/assets/115638470/f4d8dbec-234b-4759-9a2c-2e9e6a2aa5ab)
+![images (23)](https://github.com/Ali775624/cloth-remover-ai/assets/115638470/2b5ae728-2789-45e3-b901-681da38217d1)
 # ابوت زالة الملابس من الصوره
 # ازالة الملابس من الصوره
 # ازالة الملابس من الصور 
